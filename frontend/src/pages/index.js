@@ -5,7 +5,7 @@ const openSans = Open_Sans({
   subsets:["latin"],
 })
 
-
+// Landing page will go here
 export default function Home() {
   return (
     <main
