@@ -1,6 +1,28 @@
 # BRC Website
 
-## This is the official website for BRC.
+# Team
+Abhirag Kulkarni
+Shubham Patel
+Shivam Baghele
+Arpit Singh Thakur
+Purva
+
+Sejal Jagtap
+Vedanti Udapure
+Adarsh Nagrikar
+Dhaneshree 
+Sahil Headau
+
+# Work
+
+Landing page (Abhirag Vedanti)
+team Page (Arpit Sejal)
+articles & Gallary Page (Shivam Adarsh)
+Event Page (Shubham Dhaneshree)
+Contact page (Purva Sahil)
+Hackathon
+Learning
+
 
 ### Tech Stack
  - Next.js
