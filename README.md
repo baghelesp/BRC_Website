@@ -1,27 +1,27 @@
 # BRC Website
 
 # Team
-Abhirag Kulkarni
-Shubham Patel
-Shivam Baghele
-Arpit Singh Thakur
-Purva
+ - Abhirag Kulkarni
+ - Shubham Patel
+ - Shivam Baghele
+ - Arpit Singh Thakur
+ - Purva
 
-Sejal Jagtap
-Vedanti Udapure
-Adarsh Nagrikar
-Dhaneshree 
-Sahil Headau
+- Sejal Jagtap
+- Vedanti Udapure
+- Adarsh Nagrikar
+- Dhaneshree 
+- Sahil Headau
 
 # Work
 
-Landing page (Abhirag Vedanti)
-team Page (Arpit Sejal)
-articles & Gallary Page (Shivam Adarsh)
-Event Page (Shubham Dhaneshree)
-Contact page (Purva Sahil)
-Hackathon
-Learning
+ - Landing page (Abhirag Vedanti)
+ - team Page (Arpit Sejal)
+ - articles & Gallary Page (Shivam Adarsh)
+ - Event Page (Shubham Dhaneshree)
+ - Contact page (Purva Sahil)
+ - Hackathon
+ - Learning
 
 
 ### Tech Stack
