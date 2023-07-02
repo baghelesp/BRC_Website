@@ -1,13 +1,14 @@
 import React from 'react';
 import Routes from '../components/Routes';
 import PhotoGallery from './components/PhotoGallery';
+import Articles from './components/Articles'
 
 const GallerySection = () => {
   return (
     <div  class="bg-gradient-to-r from-indigo-950   to-purple-950" >
       <Routes/>
       
-       
+      <Articles/>
       <PhotoGallery/>
       
     </div>
